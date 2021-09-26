@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Soliman! @mohamedasoliman
 - 👀 I’m interested in Mobile and AI developement.
-- 🌱 I’m currently learning Flutter and Dart!
+- 🌱 I’m currently learning React Native!
 - 📫 How to reach me: mohamedasoliman99@gmail.com
 
 <!---
